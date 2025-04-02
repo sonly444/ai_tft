@@ -28,6 +28,21 @@ AI/Cloud Enginnering TFT 기록 Repository
 
 ✅ git에 대해 작업하기 전 반드시 git pull 명령어를 사용해주세요 ❗❗
 
+
+## 💠 MongoDB 접속 정보
+IP : 10.1.10.145
+
+Port : 27017
+
+DB : ipamdb
+
+User : ipamuser / ipamuser
+
+Admin User : root/root
+
+Collection (Table) : iplist
+
+
 ---
 
 **Cplatform SW사업부**
