@@ -1,0 +1,129 @@
+﻿no,ipaddr,hostname,iptype,platform,admin,bp,vmware,machine_name,os,memo
+1,10.1.10.31,,Static,,system,,N,,,사용안함
+2,10.1.10.33,1234,Static,1234,복성민,1234,Y,1234,1234,사용안함
+3,10.1.10.32,demo03,Static,Demo03,진의근,,N,demo03,Linux 7.5,
+4,10.1.10.110,,Static,,system,,N,,,사용안함
+5,10.1.10.30,aruba mgmtsw01,Static,스위치,진의근,,N,Simplivity,,
+6,10.1.10.100,jw-demo01,Static,RHEL 8.4,박재원,,Y,jw-demo01,RHEL 8.4,
+7,10.1.10.102,soar,Static,RHEL 7.6,신대균,,N,soar-test,RHEL 7.6,
+8,10.1.10.199,CPF-OIMgt,Static,Windows,서재성,,Y,CPF OI Management,Windows 10,
+9,10.1.10.180,사용가능,Static,,system,,N,사용가능,,사용안함
+10,10.1.10.181,사용가능,Static,,김연수,,N,사용가능,,
+11,10.1.10.182,사용가능,Static,,이동연,,N,사용가능능,,
+12,10.1.10.183,사용가능,Static,,이동연,,N,사용가능,,
+13,10.1.10.98,jw-demo01,Static,RHEL 8.4,박재원,,Y,jw-demo01,RHEL 8.4,
+14,10.1.10.21,Simplivity_esxi01_iLO,Static,Simplivity_esxi01_iLO,진의근,,N,Simplivity_esxi01_iLO,Simplivity_esxi01_iLO,Simplivity_esxi01_iLO
+15,10.1.10.22,Simplivity_esxi02_iLO,Static,Simplivity_esxi02_iLO,진의근,,N,Simplivity_esxi02_iLO,Simplivity_esxi02_iLO,Simplivity_esxi02_iLO
+16,10.1.10.20,Simplivity_vcenter_iLO,Static,Simplivity_vcenter_iLO,진의근,,N,Simplivity_vcenter_iLO,Simplivity_vcenter_iLO,Simplivity_vcenter_iLO
+17,10.1.10.23,Simplivity_esxi01_Host,Static,Simplivity_esxi01_Host,진의근,,N,Simplivity_esxi01_Host,Simplivity_esxi01_Host,Simplivity_esxi01_Host
+18,10.1.10.24,Simplivity_esxi02_Host,Static,Simplivity_esxi02_Host,진의근,,N,Simplivity_esxi02_Host,Simplivity_esxi02_Host,Simplivity_esxi02_Host
+19,10.1.10.25,Simplivity_windns,Static,Simplivity_windns,진의근,,N,Simplivity_windns,Simplivity_windns,Simplivity_windns
+20,10.1.10.27,vcsa.cplatform.local,Static,vcsa.cplatform.local,진의근,,N,vcsa.cplatform.local,vcsa.cplatform.local,vcsa.cplatform.local
+21,10.1.10.26,Simplivity_관리서버,Static,Simplivity_관리서버,진의근,,N,Simplivity_관리서버,Simplivity_관리서버,Simplivity_관리서버
+22,10.1.10.28,Simplivity_esxi01_OVC,Static,Simplivity_esxi01_OVC,진의근,,N,Simplivity_esxi01_OVC,Simplivity_esxi01_OVC,Simplivity_esxi01_OVC
+23,10.1.10.29,Simplivity_esxi02_OVC,Static,Simplivity_esxi02_OVC,진의근,,N,Simplivity_esxi02_OVC,Simplivity_esxi02_OVC,Simplivity_esxi02_OVC
+24,10.1.10.121,harvester-mg01,Static,Harvester,이동연,이동연_Harvester_TEST,Y,Harvester Management IP,Linux,
+25,10.1.10.141,dpfsvr01,Static,RHEL,이대열,,Y,IBM Db2 DPF #01,RHEL 8.1,root/redhat
+26,10.1.10.142,dpfsvr02,Static,RHEL,이대열,,Y,IBM Db2 DPF #02,RHEL 8.1,root/redhat
+27,10.1.10.151,mariadb01,Static,RHEL,이대열,,Y,MariaDB #01,RHEL 8.1,root/redhat
+28,10.1.10.152,Spacemon-SVR-02,Static,,이대열,,Y,Spacemon #01,RHEL 8.1,root/redhat
+29,10.1.10.155,사용가능,Static,,김연수,,N,사용가능,,
+30,10.1.10.143,dsmsvr-linux,Static,RHEL,이대열,,Y,IBM DSM,RHEL 7,root/redhat
+31,10.1.10.144,postgresql02,Static,RHEL,이대열,,N,postgreSQL,RHEL 7,
+32,10.1.10.99,jwdemo02,Static,RHEL 8.4,박재원,,Y,jw-demo02,RHEL 8,
+33,10.1.10.101,jwdemo02,Static,RHEL 8.4,박재원,,Y,jw-demo02,RHEL 8,
+34,10.1.10.104,jwdemo03,Static,RHEL 8.4,박재원,,Y,jw-demo03,RHEL 8,
+35,10.1.10.102,jwdemo02,Static,RHEL 8.4,박재원,,Y,jw-demo02,RHEL 8,
+36,10.1.10.190,voltmx_test,Static,,김연수,,Y,,ubuntu,
+37,10.1.10.42,Windows10,Static,Windows10,진의근,,Y,Windows10,Windows10,pin: 1245 genian/Cplatform1!
+38,10.1.10.150,volt-mx-test,Static,,김연수,,N,volt-mx-test,,
+39,10.1.10.161,사용가능,Static,,이성민,,N,사용가능,,
+40,10.1.10.162,사용가능,Static,,이성민,,N,사용가능,,
+41,10.1.10.163,사용가능,Static,,김연수,,Y,사용가능,centos6,
+42,10.1.10.170,사용가능,Static,,김연수,,N,사용가능,,
+43,10.1.10.171,사용가능,Static,,김연수,,N,사용가능,,
+44,10.1.10.172,사용가능,Static,,김연수,,N,사용가능,,
+45,10.1.10.175,사용가능,Static,,김연수,,N,사용가능,,
+46,10.1.10.53,사용가능,Static,,김연수,,N,사용가능,,
+47,10.1.10.52,사용가능,Static,,김연수,,N,사용가능,,
+48,10.1.10.160,사용가능,Static,,김연수,,N,사용가능,,
+49,10.1.10.43,Genian EDR WARM,Static,Genian EDR(43),진의근,,Y,Genian EDR(43),Genian EDR(43),admin/Cplatform1!
+50,10.1.10.46,winsrv_2019,Static,winsrv_2019,진의근,,N,winsrv_2019,Windows server 2019,Administrator/Cplatform1!
+51,10.1.10.211,사용가능,Static,,김연수,,N,사용가능능,,
+52,10.1.10.220,사용가능,Static,,김연수,,N,사용가능,,
+53,10.1.10.221,사용가능,Static,,김연수,,N,사용가능,,
+54,10.1.10.222,사용가능,Static,,김연수,,N,사용가능,,
+55,10.1.10.223,사용가능,Static,,김연수,,N,사용가능,,
+56,10.1.10.224,사용가능,Static,,김연수,,N,사용가능,,
+57,10.1.10.225,사용가능,Static,,김연수,,N,사용가능,,
+58,10.1.10.226,사용가능,Static,,김연수,,N,사용가능,,
+59,10.1.10.227,사용가능,Static,,김연수,,N,사용가능,,
+60,10.1.10.229,사용가능,Static,,김연수,,N,사용가능,,
+61,10.1.10.228,사용가능,Static,,이동연,,N,사용가능,,
+62,10.1.10.230,watsonx.data.dev,Static,RHEL,이대열,,N,watsonx.data.dev,RHEL,watsonx.data ver.dev 테스트
+63,10.1.10.231,hadoop01,Static,RHEL,이대열,,N,Hadoop Master,RHEL,Hadoop Master
+64,10.1.10.232,hadoop02,Static,RHEL,이대열,,N,Hadoop Data #01,RHEL,Hadoop Data #01
+65,10.1.10.130,사용가능,Static,,김연수,,N,사용가능,,
+66,10.1.10.131,사용가능,Static,,김연수,,N,사용가능,,
+67,10.1.10.132,사용가능,Static,,김연수,,N,사용가능,,
+68,10.1.10.133,사용가능,Static,,김연수,,N,사용가능,,
+69,10.1.10.61,사용가능,Dynamic,,김연수,,N,사용가능,,
+70,10.1.10.62,사용가능,Dynamic,,김연수,,N,사용가능,,
+71,10.1.10.112,사용가능,Static,,김연수,Aplussoft,N,mysqlsvr,RHEL 8,root / root
+72,10.1.10.113,pure03,Static,,이대열,,N,사용중,RHEL 8,root / root
+73,10.1.10.114,pure04,Static,,이대열,,N,사용중,RHEL 8,root / root
+74,10.1.10.115,사용가능,Static,,김연수,,N,사용가능,,
+75,10.1.10.116,사용가능,Static,,김연수,,N,사용가능,,
+76,10.1.10.117,사용가능,Static,,김연수,,N,사용가능,,
+77,10.1.10.118,사용가능,Static,,김연수,,N,사용가능,,
+78,10.1.10.119,simplivity_new node08 host,Static,,김연수,,N,,,
+79,10.1.10.122,사용가능,Static,,김연수,,Y,사용가능,,
+80,10.1.10.123,pure03-internal,Static,,이대열,,N,사용가능,RHEL 8,root / root
+81,10.1.10.124,pure04-internal,Static,,이대열,,N,사용가능,RHEL 8,root / root
+82,10.1.10.153,node0101,Static,RHEL,이대열,,Y,Db2wh (KTA test),RHEL8,root/redhat
+83,10.1.10.176,사용가능,Static,,김연수,,N,사용가능,,
+84,10.1.10.177,사용가능,Static,,김연수,,N,사용가능,,
+85,10.1.10.178,사용가능,Static,,김연수,,N,사용가능,,
+86,10.1.10.179,사용가능,Static,,김연수,,Y,사용가능,,
+87,10.1.10.48,Cortex_XDR_Linux,Static,Cortex_XDR_Linux,진의근,Palo Alto,Y,Cortex_XDR_Linux,Linux_8.1,root/Cplatform1!
+88,10.1.10.233,hadoop03,Static,RHEL,이대열,,N,Hadoop Data #02,RHEL,Hadoop Data #02
+89,10.1.10.76,pace01,Static,,최시열,,Y,db2pcmk01,Red Hat Enterprise Linux 9,
+90,10.1.10.90,sydb01,Static,,최시열,,Y,sydb01,Red Hat Enterprise Linux 8,
+91,10.1.10.91,sydb02,Static,,최시열,,Y,sydb02,Red Hat Enterprise Linux 8,
+92,10.1.10.77,pace02,Static,,최시열,,Y,db2pcmk02,Red Hat Enterprise Linux 9,
+93,10.1.10.103,windows,Static,,박재원,,Y,,,
+94,10.1.10.85,VM host(효성장비),Static,,김연수,,N,vsphere console(효성장비),,
+95,10.1.10.86,VM host(효성장비),Static,,김연수,,N,VM host(exsi 호스트),,
+96,10.1.10.87,VM host(효성장비),Static,,김연수,,N,VM host(exsi 호스트),,
+97,10.1.10.88,VM host(효성 장비),Static,,김연수,,N,VM host(exsi 호스트),,
+98,10.1.10.89,"VM host(효성장비), gpu노드",Static,,이동연,,N,VM host(exsi 호스트),,
+99,10.1.10.84,VM host(효성장비),Static,,김연수,,N,VM host,,
+100,10.1.10.70,사용가능,Static,,김연수,,N,사용가능,사용가능,
+101,10.1.10.71,사용가능,Static,,김연수,,N,사용가능,,
+102,10.1.10.72,사용가능,Static,,김연수,,N,사용가능,,
+103,10.1.10.73,사용가능,Static,,김연수,,N,사용가능,,
+104,10.1.10.120,셀트리온 PoC 서버 bastion IP,Static,watsonx.ai,김연수,,N,파트너 제공용 CPD,,
+105,10.1.10.97,DESKTOP-F8BERBV,Static,Windows,이대열,,N,DMC Windows,Windows 10,DB 모니터링 DMC 테스트
+106,10.1.10.78,pace03,Static,,최시열,,Y,db2pcmk03,Red Hat Enterprise Linux 9,
+107,10.1.10.79,"pace01, pace02",Static,,최시열,,Y,"pace01, pace02",Red Hat Enterprise Linux 9,VIP
+108,10.1.10.200,사용가능,Static,,김연수,,N,사용가능,,
+109,10.1.10.115,pgvectorsvr,Static,postgreSQL vector DB Test Server,이대열,,N,,RHEL,root / root
+110,10.1.10.158,,Dynamic,,system,,N,,,사용안함
+111,10.1.10.159,db2_db2inst1_db2inst1_SAMPLE-primary-VIP,Dynamic,,이대열,,N,,,"hadr01, hadr02 VIP"
+112,10.1.10.92,master,Static,,최시열,,Y,kube-master,Red Hat Enterprise Linux 8,
+113,10.1.10.93,worker01,Static,,최시열,,Y,kube-worker01,Red Hat Enterprise Linux 8,
+114,10.1.10.94,worker02,Static,,최시열,,Y,kube-worker02,Red Hat Enterprise Linux 8,
+115,10.1.10.145,mongodbsvr01,Static,RHEL 8.8,이대열,,N,mongodbsvr01,RHEL 8.8,mongoDB 테스트
+116,10.1.10.146,mongodbsvr02,Static,RHEL8,이대열,,N,mongodbsvr02,RHEL8,mongodb_secondary_shard
+117,10.1.10.147,mongodbsvr03,Static,RHEL8,이대열,,N,mongodbsvr03,RHEL8,mongodb 3 replica
+118,10.1.10.125,harvester-wk01,Static,Harvester,이동연,이동연_Harvester_TEST,Y,Harvester - Worker 01,,
+119,10.1.10.126,harvester-wk02,Static,Harvester,이동연,이동연_Harvester_TEST,Y,Harvester - Worker 02,,
+120,10.1.10.127,CP4S_InternalTest,Static,CP4S TEST,이동연,APLUS,Y,CP4S,,
+121,10.1.10.164,datastagesvr,Dynamic,RHEL 8.6,이대열,,N,,RHEL 8.6,IBM DataStage demo server
+122,10.1.10.128,사용가능,Static,,system,,N,사용가능,,
+123,10.1.10.128,사용가능,Static,,system,,N,사용가능,,
+124,10.1.10.129,사용가능,Static,,system,,N,사용가능,,사용안함
+125,10.1.10.73,db2svr01p,Static,,이대열,,N,,RHEL 8.6,파트너 Db2 Admin 교육을 위한 VM #01
+126,10.1.10.74,db2svr01s,Static,,이대열,,N,,RHEL 8.6,파트너 Db2 Admin 교육을 위한 VM #02
+127,10.1.10.56,db2v12-pure01,Static,,이대열,,N,,RHEL9,root / root
+128,10.1.10.57,db2v12-pure02,Static,,이대열,,N,,RHEL9,root / root
